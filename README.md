@@ -34,7 +34,7 @@ pip install requests
 
 ## Description
 
-Using the `getNetworkInventoryItems` API, the script:
+Using the `getNetworkInventoryItems` API method, the script:
 
 - Make paginated requests to retrieve all available endpoints
 - Aggregate results until completion
